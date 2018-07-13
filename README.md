@@ -13,8 +13,7 @@ Web Application Development
 (This Lesson taught us about HTML DOM and how Javascript can changed elements in an HTML document)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://lg1029.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
 1. (I learned that in the HTML DOM, all HTML elements are defined as objects.)
